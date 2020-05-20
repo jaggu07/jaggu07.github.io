@@ -1,0 +1,6 @@
+{
+  "prettier.endOfLine": "lf",
+  "prettier.singleQuote": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
+}
